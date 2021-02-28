@@ -1,0 +1,21 @@
+/*
+body {
+text-align: center;
+background: #54ff9f;
+color: #fff5ee;
+}
+.button{
+font: bold 16px Arial;
+background-color:#EEEEEE;
+padding: 1px;
+border: 1px solid #CCCCCC;
+}
+*/
+
+body {
+background: Linen;
+margin-top: 50px;
+margin-left: 100px;
+  }
+
+<link rel="styleSheet" href="/static/style.css"/>
